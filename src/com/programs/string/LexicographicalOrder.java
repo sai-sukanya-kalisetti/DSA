@@ -27,7 +27,7 @@ public class LexicographicalOrder {
 			}
 		}
 		
-		System.out.println("After reversing");
+		System.out.println("In order");
 		for(int i=0;i<a.length;i++)
 		{
 			System.out.println(a[i]);
